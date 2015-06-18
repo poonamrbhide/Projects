@@ -1,0 +1,9 @@
+In the street we have List of vehicle objects and list of TrafficLight objects.
+Vehicle is super class and car, truck and tractor-trailor class are subclasses of Vehicle class.
+Program design:
+Our vehicles are dependent on vehicle in front and list of positions of (unselected) red traffic lights.
+Vehicle is subscribed to the vehicle which is just in front of it. 
+Vehicle which is ahead of current vehicle publishes its rear position and its velocity to vehicle following it.
+All vehicles subscribe to the traffic light and traffic light publishes its position, if traffic light's color is red and it is unselected.
+Traffic Light publishes a message to remove its position to all its subscribed vechicles.
+Our street extends infinitely in both directions

@@ -1,0 +1,56 @@
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
+
+4/12  PB,PS	11:30	14:30	30	1    150          Analysis of Problem
+4/12  PB,PS	14:30	15:30	0	1    60           Data Definition of Q
+4/12  PB,PS	16:30	19:00	30	1    120          Started with Vehicle 
+StatefulWorldobj, Street,TrafficLight Interface and Classes for all.
+4/12  PB,PS	19:30	22:45	30	1    180          Implemented functions
+of Vehicles  and Street
+
+===============================committing to svn 4/12/2013 22:55================
+
+4/13  PB,PS	22:00	23:00	30	2    30           Started with functions
+of TrafficLight
+4/14 PB,PS	23:00	1:00	30	2    90           Started with functions
+of TrafficLight required in Street and Mouse Event related functions
+4/14 PB,PS	1:00	3:00	30	2    90           Modified the functions
+of Vehicle - On-tick() modified as per TrafficLights
+4/14 PB,PS	3:00	4:40	10	2    90           Modified the on-tick
+of Vehicle()
+===============================committing to svn 4/14/2013 4.59================
+
+4/16  PB,PS	18:00	20:00	30	1    90           Designed the functions 
+and finalized the approach for the Vehicles on tick();
+
+4/16  PB,PS	20:00	22:00	0	2    120           Finalized approach for
+drag in case of TrafficLights
+===============================committing to svn 4/16/2013 22:11================
+
+
+4/17  PB,PS	9:00	12:00	0	1    180           Wrote the test cases for
+ and checked the contract and purpose statements.
+
+4/17  PB,PS	14:00	17.30	30      1     180          Wrote the test cases for
+ and checked the contract and purpose statements.
+
+===============================committing to svn 4/17/2013 17:30================
+
+    
+Total Time On Task Q1 (minutes) 1380
+             
+TOTQ1 (hours and tenths) 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           
